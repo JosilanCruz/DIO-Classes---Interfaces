@@ -1,0 +1,1 @@
+Repositório criado apenas para entrega de projeto basico de Java sobre o uso de classes e uso de interfaces para herdar comportamentos de mais de uma classe como atividade que faz parte do BootCamp - Java back-end.
